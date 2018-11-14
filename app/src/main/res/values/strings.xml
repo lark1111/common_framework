@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WGY</string>
+
+    <!--tab标题-->
+    <string name="index_title1">首页</string>
+    <string name="index_title2">你的</string>
+    <string name="index_title3">我的</string>
+</resources>

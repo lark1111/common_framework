@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@mipmap/loading_00050" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00051" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00052" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00053" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00054" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00055" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00056" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00057" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00058" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00059" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00060" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00061" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00062" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00063" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00064" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00065" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00066" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00067" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00068" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00069" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00070" android:duration="40" />
+    <item android:drawable="@mipmap/loading_00071" android:duration="40" />
+
+</animation-list>

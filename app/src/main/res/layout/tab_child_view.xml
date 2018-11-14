@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/tab_child_icon"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/mine_icon_unselect" />
+
+        <ImageView
+            android:id="@+id/tab_child_icon_red"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/mine_icon"
+            android:layout_gravity="top|right"
+            android:layout_marginLeft="-17px"
+            android:layout_toRightOf="@+id/mine_icon"
+            android:src="@mipmap/ic_toast_msg" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tab_child_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/index_title1"
+        android:maxLines="2"
+        android:gravity="center"
+        android:layout_marginBottom="2dp"
+        android:textColor="@drawable/color"
+        android:textSize="10sp" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Wgy"/>
+    <version value="9"/>
+    <list>
+        <mapping class="com.imindera.wgy.bean.BottomLevelIconTextsBean"/>
+    </list>
+</litepal>
